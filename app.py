@@ -16,7 +16,7 @@ with st.sidebar:
     st.image("https://i.pinimg.com/236x/b4/b9/42/b4b942947c8e95c1e1f0135609ae6236--cute-anime-guys-anime-boys.jpg")
     st.title("OperationalML")
     choice = st.radio("Navigation", ["Upload","Profiling","Modelling", "Download"])
-    st.info("This project application helps you build and explore your data.")
+    st.info("The OperationalML App is a machine learning profiler application designed to help developers and data scientists optimize and improve the performance of their machine learning models. The app allows users to upload datasets, perform exploratory data analysis, run machine learning models, and download the best model for future use.")
 
 if choice == "Upload":
     st.title("Upload Your Dataset")
