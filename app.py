@@ -13,7 +13,7 @@ else:
     df = pd.DataFrame() # default dataframe if one has not been provided
 
 with st.sidebar:
-    st.image("https://www.onepointltd.com/wp-content/uploads/2020/03/inno2.png")
+    st.image("https://i.pinimg.com/236x/b4/b9/42/b4b942947c8e95c1e1f0135609ae6236--cute-anime-guys-anime-boys.jpg")
     st.title("OperationalML")
     choice = st.radio("Navigation", ["Upload","Profiling","Modelling", "Download"])
     st.info("This project application helps you build and explore your data.")
