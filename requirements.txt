@@ -147,7 +147,7 @@ wasabi==0.10.1
 watchdog==2.1.9
 wcwidth==0.2.5
 websocket-client==1.4.1
-Werkzeug==2.2.2
+Werkzeug==2.2.3
 widgetsnbextension==4.0.3
 wordcloud==1.8.2.2
 yellowbrick==1.2.1
