@@ -1,0 +1,6 @@
+artifact_location: file:///home/vk/automl/mlruns/1
+creation_time: 1683219729870
+experiment_id: '1'
+last_update_time: 1683219729870
+lifecycle_stage: active
+name: clf-default-name

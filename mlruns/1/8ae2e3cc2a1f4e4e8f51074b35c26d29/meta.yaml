@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vk/automl/mlruns/1/8ae2e3cc2a1f4e4e8f51074b35c26d29/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8ae2e3cc2a1f4e4e8f51074b35c26d29
+run_name: Session Initialized 83d8
+run_uuid: 8ae2e3cc2a1f4e4e8f51074b35c26d29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683220946950
+status: 1
+tags: []
+user_id: vk
