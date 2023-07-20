@@ -89,7 +89,7 @@ pyarrow==9.0.0
 pycaret==2.3.10
 pydantic==1.10.2
 pydeck==0.8.0b4
-Pygments==2.13.0
+Pygments==2.15.0
 PyJWT==2.6.0
 pyLDAvis==3.3.1
 Pympler==1.0.1
