@@ -57,7 +57,7 @@ MarkupSafe==2.1.1
 matplotlib==3.5.3
 matplotlib-inline==0.1.6
 missingno==0.5.1
-mlflow==1.30.0
+mlflow==2.5.0
 mlxtend==0.19.0
 multimethod==1.9
 murmurhash==1.0.9
