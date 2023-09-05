@@ -1,4 +1,6 @@
-# Software Engineering Capstone
+# Operational ML
+![image](https://github.com/Venkatakrishnan-Ramesh/OperationalML/assets/74406604/5c3056c5-b171-45b9-a21e-e07f390d2fc6)
+
 
 ## Introduction
 
